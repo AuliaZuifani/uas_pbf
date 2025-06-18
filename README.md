@@ -1,5 +1,4 @@
 ## Cara Menjalankan Projek Laravel
-# 1. Clone Backend
 langkah pertama kalian bisa Clone folder Backend saya dari link repositori github saya, sebagai berikut : https://github.com/AuliaZuifani/uas_backend# 📚 UAS Project - Aplikasi Perpustakaan Digital
 
 Ini adalah project sederhana sistem informasi perpustakaan berbasis **Laravel (Backend)** dan **Laravel + Bootstrap (Frontend)** yang dibuat untuk memenuhi Ujian Akhir Semester (UAS).  
