@@ -1,6 +1,18 @@
 ## Cara Menjalankan Projek Laravel
 # 1. Clone Backend
-langkah pertama kalian bisa Clone folder Backend saya dari link repositori github saya, sebagai berikut : https://github.com/AuliaZuifani/uas_backend
+langkah pertama kalian bisa Clone folder Backend saya dari link repositori github saya, sebagai berikut : https://github.com/AuliaZuifani/uas_backend# 📚 UAS Project - Aplikasi Perpustakaan Digital
+
+Ini adalah project sederhana sistem informasi perpustakaan berbasis **Laravel (Backend)** dan **Laravel + Bootstrap (Frontend)** yang dibuat untuk memenuhi Ujian Akhir Semester (UAS).  
+Silakan ikuti panduan di bawah untuk menjalankan aplikasi ini di lokal komputer kamu.
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+### 1️⃣ Clone Backend Repository
+Pertama, clone repository backend dari GitHub:
+```bash
+git clone https://github.com/AuliaZuifani/uas_backend
 # 2. Buat Database dengan nama (db_uas_230102030auliazuifani)
 pada langkah ini kalian bisa buka locallhost/phpmyadmin kalian masing-masing, kemudian kalian buat database baru dengan nama seperti format diatas kemudian kalian bisa mulai masukan satu persatu tabel yang saya sediakan di bawah : 
 CREATE DATABASE db_perpus_[NIM_ANDA];
@@ -25,5 +37,14 @@ CREATE TABLE peminjaman (
 # 3. Open VsCode
 buka folder Backend yang sudah di clone tadi lalu jalan kan terminal dengan perintah (php spark serve)
 
-# 4. 
+# 4. Clone Repositori ini untuk mendapatkan folder frontend nya
+https://github.com/AuliaZuifani/uas_pbf
+jika sudah lalu beri nama frontend-uas-230102030
+
+# 5. Open VsCode lalu jalankan Php artisan serve
+
+# 6. browse
+http://127.0.0.1:8000/buku
+http://127.0.0.1:8000/peminjaman
+
 
