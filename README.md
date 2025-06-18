@@ -24,7 +24,7 @@ jika sudah lalu beri nama frontend-uas-230102030
 ### 5. Open VsCode lalu jalankan Php artisan serve
 
 ### 6. browse
-http://127.0.0.1:8000/buku
-http://127.0.0.1:8000/peminjaman
+untuk tabel buku http://127.0.0.1:8000/buku
+untuk tabel peminjaman http://127.0.0.1:8000/peminjaman
 
 
