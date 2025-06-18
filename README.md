@@ -30,6 +30,8 @@ CREATE TABLE peminjaman (
   tanggal_kembali DATE
 );
 
+
+
 # 3. Open VsCode
 buka folder Backend yang sudah di clone tadi lalu jalan kan terminal dengan perintah (php spark serve)
 
